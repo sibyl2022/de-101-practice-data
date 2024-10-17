@@ -1,0 +1,8 @@
+.idea/
+de-101-practice-data.iml
+.DS_Store
+airflow-webserver.pid
+airflow.cfg
+airflow.db
+webserver_config.py
+logs/
